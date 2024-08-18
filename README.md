@@ -1,3 +1,3 @@
-This is proglie. It is the exam project of Silvia Imeneo, Tommaso Tarchi and Piero Pettena for the course of Introduction to Machine Learning of professor Medvet (year 22/23) at the University of Trieste. It is not pretty nor particularly efficient, but we believe it is the result of the right amount of work we had to do for this course. We wish we did a better project, but we all felt saturated with the amount of studying that was needed for the rest of the exam session. That being said, the instructions for the exam were the following:
+Final project for the exam of Introduction to Machine Learning, A.Y: 2022/2023, University of Trieste.
 
 The goal is to propose a method for leaf identification based on the provided leaf attributes and using a proper unsupervised or supervised learning tool.
